@@ -3,7 +3,7 @@
 {
     "name": "MRP Sale Info",
     "summary": "Adds sale information to Manufacturing models",
-    "version": "0.0.1",
+    "version": "14.0.0.0.1",
     "category": "Manufacturing",
     "website": "https://github.com/humanytek-team/mrp_sale_info",
     "author": "AvanzOSC, "
